@@ -28,7 +28,7 @@
 
     ![фото сервера](https://github.com/Deliys/labview-smart-lock/blob/main/server.PNG?raw=true)
 
-
+    ![alt text](example.com/logo.png)
 
 
 # ❗Примечание :
