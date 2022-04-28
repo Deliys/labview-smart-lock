@@ -23,15 +23,10 @@
 <img src="server.PNG" alt="poc" style="max-width:300px" />
     Сервер - в дериктории с файлом server.py должна быть папка img 
     и файл img/1.jpg (фото лица с которым скрипт будет сравнивать)
-
-    
-
-    клиет - перед началом работы необходимо изменить ip и порт 
-    к которому http.post будет обращаться
-
-
 <img src="client1.jpg" alt="poc" style="max-width:300px" />
 <img src="client2.jpg" alt="poc" style="max-width:300px" />
+    клиет - перед началом работы необходимо изменить ip и порт 
+    к которому http.post будет обращаться
 
 
 
