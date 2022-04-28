@@ -26,7 +26,7 @@
     клиет - перед началом работы необходимо изменить ip и порт 
     к которому http.post будет обращаться
 
-    ![фото сервера](https://github.com/Deliys/labview-smart-lock/blob/main/server.PNG)
+    ![фото сервера](https://github.com/Deliys/labview-smart-lock/blob/main/server.PNG?raw=true)
 
 
 
