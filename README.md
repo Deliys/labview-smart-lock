@@ -13,9 +13,15 @@
         - далее пропишите pin install -r requirements.txt чтобы импоротировать основые зависимости
             или установите список вручную 
                 * Flask==2.1.1
-                * Pillow==9.1.0
-                * opencv-python==4.5.5.64
-                * dlib
+                * click==7.1.2
+                * dlib==19.22.99
+                * face-recognition==1.3.0
+                * face-recognition-models==0.3.0
+                * imutils==0.5.4
+                * numpy==1.20.2
+                * opencv-python==4.5.1.48
+                * Pillow==8.2.0
+
         - face_recognition
 
 
